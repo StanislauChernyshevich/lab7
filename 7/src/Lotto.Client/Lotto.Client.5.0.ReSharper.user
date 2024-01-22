@@ -1,0 +1,382 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:Lotto.xml" caret="1932" fromTop="28" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:App.config" caret="0" fromTop="0" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:Program.cs" caret="445" fromTop="16" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.Designer.cs" caret="13140" fromTop="13" />
+      <File id="23FD7005-D735-4053-A5E3-B0FE4A5B6542/f:Program.cs" caret="3725" fromTop="18" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="393" fromTop="5" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:ListViewColumnSorter.cs" caret="118" fromTop="4" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="421" fromTop="16" />
+      <File id="D9D9C3D3-9A68-40AD-B5AF-2401B8C587B3/f:App.config" caret="537" fromTop="15" />
+      <File id="D9D9C3D3-9A68-40AD-B5AF-2401B8C587B3/f:Program.cs" caret="0" fromTop="0" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoData.cs" caret="1518" fromTop="66" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="2030" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="2212" fromTop="13" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="910" fromTop="1" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:Lotto.xml" caret="1977" fromTop="0" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5244" fromTop="17" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5659" fromTop="23" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoData.cs" caret="889" fromTop="18" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="2134" fromTop="10" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="2134" fromTop="10" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="2113" fromTop="28" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="1685" fromTop="2" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="2042" fromTop="13" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5128" fromTop="16" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="2212" fromTop="21" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="1769" fromTop="16" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5577" fromTop="23" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="200" fromTop="10" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="220" fromTop="10" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="419" fromTop="14" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="1182" fromTop="17" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:Program.cs" caret="447" fromTop="17" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="4859" fromTop="12" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:AddEditForm.cs" caret="704" fromTop="4" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="1931" fromTop="8" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.Designer.cs" caret="14510" fromTop="13" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="629" fromTop="21" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5733" fromTop="9" />
+      <File id="7226735D-703C-49FE-AB57-4E97D6522893/f:LottoView.cs" caret="5733" fromTop="16" />
+      <File id="D9D9C3D3-9A68-40AD-B5AF-2401B8C587B3/f:App.config" caret="576" fromTop="15" />
+      <File id="D9D9C3D3-9A68-40AD-B5AF-2401B8C587B3/f:Program.cs" caret="353" fromTop="14" />
+      <File id="2B3D7C07-39F3-4FB7-BCC3-B1F5B9E94DE6/f:LottoDataProvider.cs" caret="80" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="STAThread" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="XmlRoot" priority="0" />
+      <Item value="public" priority="19" />
+      <Item value="class" priority="0" />
+      <Item value="XmlArrayItem" priority="1" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="enum" priority="0" />
+      <Item value="int" priority="13" />
+      <Item value="XmlText" priority="0" />
+      <Item value="XmlArray" priority="0" />
+      <Item value="XmlAttribute" priority="3" />
+      <Item value="string" priority="7" />
+      <Item value="return" priority="7" />
+      <Item value="Lotto" priority="4" />
+      <Item value="Data" priority="4" />
+      <Item value="LottoData`0" priority="10" />
+      <Item value="new" priority="37" />
+      <Item value="lotto" priority="21" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="box" priority="0" />
+      <Item value="t" priority="3" />
+      <Item value="XmlSerializer`0" priority="0" />
+      <Item value="_serializer" priority="5" />
+      <Item value="XmlSerializer" priority="2" />
+      <Item value="Type`0" priority="1" />
+      <Item value="var" priority="16" />
+      <Item value="reader" priority="2" />
+      <Item value="Lotto`0" priority="9" />
+      <Item value="Bals" priority="0" />
+      <Item value="Country" priority="3" />
+      <Item value="Country`0" priority="2" />
+      <Item value="Date" priority="3" />
+      <Item value="TicketsCount" priority="1" />
+      <Item value="TicketsPrice" priority="1" />
+      <Item value="Type" priority="2" />
+      <Item value="LottoType`0" priority="5" />
+      <Item value="WonAmount" priority="2" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="LottoItems" priority="0" />
+      <Item value="sb" priority="0" />
+      <Item value="Resources`0" priority="0" />
+      <Item value="serializer" priority="1" />
+      <Item value="typeof" priority="0" />
+      <Item value="writer" priority="2" />
+      <Item value="void" priority="5" />
+      <Item value="Serializer" priority="0" />
+      <Item value="private" priority="6" />
+      <Item value="document" priority="1" />
+      <Item value="XmlDocument" priority="1" />
+      <Item value="XDocument`0" priority="1" />
+      <Item value="LottoDataProvider`0" priority="0" />
+      <Item value="provider" priority="0" />
+      <Item value="LottoDataProvider" priority="1" />
+      <Item value="_provider" priority="3" />
+      <Item value="_dataPath" priority="0" />
+      <Item value="DataPath" priority="4" />
+      <Item value="StreamWriter`0" priority="2" />
+      <Item value="TextWriter`0" priority="0" />
+      <Item value="GetAll`0" priority="4" />
+      <Item value="List&lt;Lotto&gt;" priority="0" />
+      <Item value="all" priority="4" />
+      <Item value="ushort" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="StringReader`0" priority="0" />
+      <Item value="result" priority="3" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="lwData" priority="10" />
+      <Item value="View`0" priority="0" />
+      <Item value="ListViewItem" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="item" priority="7" />
+      <Item value="Join`4" priority="0" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="builder" priority="5" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="b" priority="1" />
+      <Item value="GetBalls`0" priority="1" />
+      <Item value="lvi" priority="2" />
+      <Item value="lvsi" priority="2" />
+      <Item value="ListViewSubItem" priority="1" />
+      <Item value="Id" priority="7" />
+      <Item value="ListViewItem`0" priority="1" />
+      <Item value="listItem" priority="2" />
+      <Item value="Text" priority="1" />
+      <Item value="double" priority="1" />
+      <Item value="profit" priority="1" />
+      <Item value="Profit" priority="2" />
+      <Item value="type" priority="0" />
+      <Item value="IDataAdapter`0" priority="1" />
+      <Item value="e" priority="0" />
+      <Item value="BindItems`0" priority="3" />
+      <Item value="i" priority="2" />
+      <Item value="By" priority="0" />
+      <Item value="else" priority="3" />
+      <Item value="TypeCode`0" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="tdId" priority="1" />
+      <Item value="items" priority="4" />
+      <Item value="dateStart" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="dateEnd" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="Balls" priority="0" />
+      <Item value="tbBalls" priority="3" />
+      <Item value="balls" priority="2" />
+      <Item value="ddlType" priority="2" />
+      <Item value="date" priority="2" />
+      <Item value="tbProfit" priority="1" />
+      <Item value="comboBox1" priority="0" />
+      <Item value="tbWon" priority="2" />
+      <Item value="GetAutoScaleSize`0" priority="0" />
+      <Item value="SettingsBindableAttribute`0" priority="0" />
+      <Item value="_lotto" priority="2" />
+      <Item value="id" priority="2" />
+      <Item value="l" priority="3" />
+      <Item value="Save`0" priority="0" />
+      <Item value="AddEditForm`0" priority="0" />
+      <Item value="form" priority="2" />
+      <Item value="AddEditForm" priority="0" />
+      <Item value="OK" priority="1" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="selected" priority="0" />
+      <Item value="ShowEdit`0" priority="0" />
+      <Item value="ddlCountry" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="initLottoData" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="manager" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="statusStrip1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Data.LottoData">
+      <Item value="GetLotto`0" priority="0" />
+      <Item value="GetAll`0" priority="2" />
+      <Item value="LottoItems" priority="11" />
+      <Item value="Create`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Deserialize`0" priority="1" />
+      <Item value="Serialize`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Lotto.Data.Properties.Resources">
+      <Item value="Lotto1" priority="0" />
+      <Item value="LottoData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Lotto.Data.Country">
+      <Item value="By" priority="1" />
+      <Item value="Ru" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Lotto.Data.LottoType">
+      <Item value="a5of35" priority="2" />
+      <Item value="a6of45" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Append`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Length" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Select`2" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToShortDateString`0" priority="2" />
+      <Item value="Date" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Data.LottoDataProvider">
+      <Item value="GetAll`0" priority="0" />
+      <Item value="Create`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="DeleteLotto`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Element`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Where`1" priority="4" />
+      <Item value="ToArray`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Max`2" priority="0" />
+      <Item value="Sort`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="View" priority="0" />
+      <Item value="Items" priority="1" />
+      <Item value="ItemActivate" priority="1" />
+      <Item value="SelectedItems" priority="0" />
+      <Item value="ItemChecked" priority="0" />
+      <Item value="ItemMouseHover" priority="0" />
+      <Item value="ItemCheck" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+ListViewItemCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Data.Lotto">
+      <Item value="Date" priority="4" />
+      <Item value="Type" priority="5" />
+      <Item value="Country" priority="3" />
+      <Item value="Balls" priority="2" />
+      <Item value="Id" priority="9" />
+      <Item value="WonAmount" priority="1" />
+      <Item value="TicketsPrice" priority="0" />
+      <Item value="Profit" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Data.LottoType">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Data.Country">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="Text" priority="3" />
+      <Item value="SubItems" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem+ListViewSubItemCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem+ListViewSubItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Client.Form1">
+      <Item value="lwData" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNodeMouseClickEventArgs">
+      <Item value="Node" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TreeNode">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="1" />
+      <Item value="Single`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="3" />
+      <Item value="Checked" priority="1" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedText" priority="2" />
+      <Item value="Text" priority="1" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lotto.Client.AddEditForm">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView+SelectedListViewItemCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusStrip">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

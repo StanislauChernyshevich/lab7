@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LottoData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LottoItems>
+    <Lotto Id="2">
+      <Date>2022-11-13T00:56:29.379+03:00</Date>
+      <Country>Ru</Country>
+      <Type>a5of35</Type>
+      <WonAmount>1055.3</WonAmount>
+      <Profit>10000.9</Profit>
+      <Balls>
+        <Ball>11</Ball>
+        <Ball>2</Ball>
+        <Ball>24</Ball>
+        <Ball>35</Ball>
+        <Ball>32</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="3">
+      <Date>2022-11-12T00:56:29.379+03:00</Date>
+      <Country>By</Country>
+      <Type>a6of45</Type>
+      <WonAmount>9990.2</WonAmount>
+      <Profit>134000.9</Profit>
+      <Balls>
+        <Ball>12</Ball>
+        <Ball>22</Ball>
+        <Ball>4</Ball>
+        <Ball>20</Ball>
+        <Ball>22</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="4">
+      <Date>2022-11-13T00:56:29.379+03:00</Date>
+      <Country>Ru</Country>
+      <Type>a6of45</Type>
+      <WonAmount>1255.3</WonAmount>
+      <Profit>210000.5</Profit>
+      <Balls>
+        <Ball>34</Ball>
+        <Ball>25</Ball>
+        <Ball>16</Ball>
+        <Ball>43</Ball>
+        <Ball>1</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="1">
+      <Date>2022-11-11T01:00:00+03:00</Date>
+      <Country>By</Country>
+      <Type>a5of35</Type>
+      <WonAmount>1000.2</WonAmount>
+      <Profit>134666.9</Profit>
+      <Balls>
+        <Ball>1</Ball>
+        <Ball>32</Ball>
+        <Ball>11</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="5">
+      <Date>2022-11-17T01:00:00+03:00</Date>
+      <Country>By</Country>
+      <Type>a5of35</Type>
+      <WonAmount>1234</WonAmount>
+      <Profit>4444</Profit>
+      <Balls>
+        <Ball>1</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="6">
+      <Date>2022-12-22T19:55:38.0946117+03:00</Date>
+      <Country>Ru</Country>
+      <Type>a6of45</Type>
+      <WonAmount>100</WonAmount>
+      <Profit>20</Profit>
+      <Balls>
+        <Ball>11</Ball>
+        <Ball>2</Ball>
+        <Ball>3</Ball>
+        <Ball>4</Ball>
+        <Ball>5</Ball>
+      </Balls>
+    </Lotto>
+    <Lotto Id="7">
+      <Date>2022-12-22T00:00:00+03:00</Date>
+      <Country>By</Country>
+      <Type>a6of45</Type>
+      <WonAmount>5000</WonAmount>
+      <Profit>2000</Profit>
+      <Balls>
+        <Ball>11</Ball>
+        <Ball>22</Ball>
+        <Ball>33</Ball>
+        <Ball>44</Ball>
+        <Ball>55</Ball>
+      </Balls>
+    </Lotto>
+  </LottoItems>
+</LottoData>
